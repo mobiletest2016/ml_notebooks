@@ -5,3 +5,5 @@
 [Decision Tree MIN_SAMPLES_LEAF](notebooks/decision_tree_min_samples_leaf.ipynb)
 
 [Fashion MNIST DNN vs CNN](notebooks/fashion_mnist_dnn_vs_cnn.ipynb)
+
+[Text classification DNN vs LSTM](notebooks/text_classification_dnn_vs_lstm.ipynb)
