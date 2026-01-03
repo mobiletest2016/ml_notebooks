@@ -7,3 +7,5 @@
 [Fashion MNIST DNN vs CNN](notebooks/fashion_mnist_dnn_vs_cnn.ipynb)
 
 [Text classification DNN vs LSTM](notebooks/text_classification_dnn_vs_lstm.ipynb)
+
+[Transformers Text Classification Zero Shot vs Finetuning](notebooks/transformer_text_classification_zero_shot_vs_finetuning.ipynb)
